@@ -1,7 +1,6 @@
 #  Hina Ali
 
-**🎓 Bioinformatics Graduate | 📊 Data Science Enthusiast | 🤖 ML in Biology | 🧬 Protein Structure & Genomics Analyst**  
-📍 Islamabad, Pakistan  
+**🎓 Bioinformatics Graduate | 📊 Data Science Enthusiast | 🤖 ML in Biology | 🧬 Protein Structure & Genomics Analyst**   
 📧 hina2003.ali@gmail.com  
 
 ---
