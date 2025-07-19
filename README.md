@@ -8,7 +8,7 @@
 
 ## 🌱 About Me
 
-I’m a highly motivated **Bioinformatics undergraduate** at COMSATS University Islamabad, with a strong academic record (CGPA: 3.91) and hands-on experience in biological data analysis, machine learning, and computational biology. 
+I’m a highly motivated **BS Bioinformatics graduate** from COMSATS University Islamabad, with a strong academic record (CGPA: 3.91) and hands-on experience in biological data analysis, machine learning, and computational biology. 
 
 I’m passionate about integrating programming, statistics, and biology to solve real-world biomedical challenges.
 
