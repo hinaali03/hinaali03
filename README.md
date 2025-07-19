@@ -26,8 +26,7 @@ I’m passionate about integrating programming, statistics, and biology to solve
 
 ## 🧪 Projects
 
-### 🔹 Final Year Project
-**Clustering-Based Analysis for lncRNA Biomarker Identification in Hepatocellular Carcinoma**  
+### 🔹 Final Year Project - **Clustering-Based Analysis for lncRNA Biomarker Identification in Hepatocellular Carcinoma**  
 - Tools: R, Python, G:Profiler  
 - Goal: Discover potential lncRNA biomarkers using clustering and functional enrichment techniques.
 
@@ -37,7 +36,7 @@ I’m passionate about integrating programming, statistics, and biology to solve
 - Supports **batch prediction** for up to 500 molecules with molecular visualizations.
 
 ### 🔹 Predicting Thyroid Cancer Recurrence
-- Built a **logistic regression model** with >90% accuracy to predict recurrence using patient data.
+- Built a **logistic regression model** to predict recurrence using patient data.
 - Tools: Python, pandas, matplotlib, seaborn, scikit-learn.
 
 ### 🔹 Statistical Analysis of Biological Data
@@ -49,8 +48,7 @@ I’m passionate about integrating programming, statistics, and biology to solve
 ## 📜 Certificates
 
 - **International Symposium** on Advances in Protein Function and Design — _COMSATS (March 2025)_
-- **Mastering Cheminformatics with RDKit Toolkit** — _Webinar (March 2025)_
-- **NyBerMan Bioinformatics Europe** — _Certificate (December 2024)_
+- **Mastering Cheminformatics with RDKit Toolkit** — _Webinar **NyBerMan Bioinformatics Europe**  (December 2024)
 
 ---
 
