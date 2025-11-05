@@ -1,6 +1,6 @@
 #  Hina Ali
 
-**🎓 Bioinformatics Graduate | 📊 Data Science Enthusiast | 🤖 ML in Biology | 🧬 Protein Structure & Genomics Analyst**   
+**🎓 Bioinformatics Graduate | 📊 Data Science & ML Enthusiast | 🤖 ML in Biology | 🧬 Protein Structure & Genomics Analyst**   
 📧 hina2003.ali@gmail.com  
 
 ---
@@ -9,6 +9,7 @@
 
 Hi there! I'm a passionate **Bioinformatics graduate** from **COMSATS University Islamabad**.  
 I enjoy blending **biology, programming, and statistics** to explore and solve **real-world biomedical problems**.
+I’m also exploring and learning ML, computer vision and neural networks to expand my skills in AI applications.
 
 From genomics to structural biology, I love diving deep into biological data and turning it into meaningful insights using **coding and visualization tools**.
 
@@ -17,13 +18,14 @@ From genomics to structural biology, I love diving deep into biological data and
 ## 💻 Technical Skills
 
 ### 🔧 Tools & Languages
-- `Python`, `R`, `C++`, `SPSS`, `Excel`, `Pandas`, `Scikit-learn`, `RDKit`, `matplotlib`, `seaborn`
-
+- `Python`, `R`, `C++`, `SPSS`, `Excel`, `Pandas`, `Scikit-learn`, `TensorFlow`, `Keras`, `matplotlib`, `seaborn`, `RDkit`
+- 
 ### 🧬 Bioinformatics Tools
 - `STRING`, `Cytoscape`, `GEO`, `PyMOL`, `Chimera`, `Modeler`, `Galaxy`, `Desmond Maestro`, `BIOVIA Discovery Studio`
 
 ### 📈 Data Analysis & ML
-- `Seurat`, `RStudio`, `Logistic Regression`, `Random Forest`
+- `Seurat`, `RStudio`, `Logistic Regression`, `Random Forest`, `CNNs (basic)`, `Image Classification`, `Data Preprocessing`, ` Exploratory Data Analysis`, `Model Evaluation`
+   
 
 ### 💡 Soft Skills
 - 🤝 Teamwork  
@@ -33,6 +35,14 @@ From genomics to structural biology, I love diving deep into biological data and
 ---
 
 ## 🧪 Projects
+
+### CIFAR-10 Image Classification (Learning Project)
+> Built a basic Convolutional Neural Network (CNN) using TensorFlow/Keras.
+> Gained hands-on experience in image preprocessing, model training, evaluation, and prediction
+> Explored concepts of batch processing, ReLU activation, dropout, and softmax output
+> Tools: `Python`, `Tensorflow`, `Keras`
+
+---
 
 ### Final Year Project  
 **Clustering-Based Analysis for lncRNA Biomarker Identification in Hepatocellular Carcinoma**  
@@ -73,7 +83,7 @@ From genomics to structural biology, I love diving deep into biological data and
 
 If you're interested in:
 - 🧬 Bioinformatics  
-- 💻 Machine Learning in Healthcare  
+- 💻 Machine Learning in Healthcare and Computer Vision
 - 🤝 Scientific Collaborations  
 
 Feel free to connect!
