@@ -38,7 +38,7 @@ From genomics to structural biology, I love diving deep into biological data and
 
 ### CIFAR-10 Image Classification (Learning Project)
 > Built a basic Convolutional Neural Network (CNN) using TensorFlow/Keras.
-> Gained hands-on experience in image preprocessing, model training, evaluation, and prediction
+> Gained hands-on experience in image preprocessing, model training, evaluation, and prediction.
 > Explored concepts of batch processing, ReLU activation, dropout, and softmax output
 > Tools: `Python`, `Tensorflow`, `Keras`
 
