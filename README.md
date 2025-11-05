@@ -19,7 +19,7 @@ From genomics to structural biology, I love diving deep into biological data and
 
 ### 🔧 Tools & Languages
 - `Python`, `R`, `C++`, `SPSS`, `Excel`, `Pandas`, `Scikit-learn`, `TensorFlow`, `Keras`, `matplotlib`, `seaborn`, `RDkit`
-- 
+  
 ### 🧬 Bioinformatics Tools
 - `STRING`, `Cytoscape`, `GEO`, `PyMOL`, `Chimera`, `Modeler`, `Galaxy`, `Desmond Maestro`, `BIOVIA Discovery Studio`
 
